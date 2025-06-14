@@ -13,9 +13,3 @@ Este é um projeto construído apenas com **JavaScript** que simula um sistema d
 - Estruturas condicionais (if, else, switch)
 - Laços de repetição (for, while)
 - Manipulação básica de datas
-
-## 🚀 Como usar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/ohakwn/controle-jornada.git
